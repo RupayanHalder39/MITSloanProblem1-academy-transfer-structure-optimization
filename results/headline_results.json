@@ -1,0 +1,32 @@
+{
+  "study": {
+    "modellable_exits": 36,
+    "full_sale_selections": 29,
+    "nominal_retention_selections": 7,
+    "nominal_retention_ties": 7,
+    "retention_additional_value_eur": 0.0,
+    "retention_ties_with_workable_overlap": 0
+  },
+  "portfolio": {
+    "player_specific_eur": 172369112.92,
+    "full_sale_eur": 172369112.92,
+    "fixed_50_50_eur": 161646170.80,
+    "difference_vs_fixed_50_50_eur": 10722942.12,
+    "relative_difference_pct": 6.6336,
+    "difference_per_exit_eur": 297859.50
+  },
+  "sensitivity": {
+    "configurations": 1500,
+    "pct_player_specific_above_fixed_50_50": 100.0,
+    "difference_eur_p10": 5527556.81,
+    "difference_eur_median": 15716313.64,
+    "difference_eur_p90": 33550827.08
+  },
+  "forecast": {
+    "historical_trajectories_approx": 9000,
+    "three_year_previous_mae_eur": 21913747.06,
+    "three_year_selected_mae_eur": 13542546.76,
+    "selected_three_year_model": "extra_trees",
+    "seed": 20240301
+  }
+}

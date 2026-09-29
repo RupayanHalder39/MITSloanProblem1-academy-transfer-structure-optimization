@@ -1,0 +1,4 @@
+policy,modelled_portfolio_value_eur,difference_from_player_specific_eur,interpretation
+player_specific,172369112.92,0.00,Per-player structure selected by the frozen decision framework
+full_sale,172369112.92,0.00,Best uniform rule under the default analysis
+hypothetical_fixed_50_50,161646170.80,-10722942.12,Hypothetical mechanical benchmark; not observed club policy

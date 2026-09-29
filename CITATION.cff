@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Sell Now or Keep a Share? Risk-Adjusted Optimization of Academy Transfer Structures in Football"
+type: software
+authors:
+  - family-names: Halder
+    given-names: Rupayan
+year: 2026
+date-released: 2026-09-29
+repository-code: "https://github.com/RupayanHalder39/MITSloanProblem1-academy-transfer-structure-optimization"
